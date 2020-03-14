@@ -20,3 +20,5 @@ RUN set -x \
     iputils-ping \
     wget \
     gosu
+
+CMD tail -f /dev/null
