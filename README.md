@@ -1,1 +1,1 @@
-# ubuntu-base
+# base-ubuntu
